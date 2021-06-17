@@ -1,0 +1,257 @@
+@media only screen and (max-width : 768px) {
+    .common-title h1 {
+        font-size: 38px;
+    }
+
+    .common-button button {
+        background: #92e3a9;
+        border: none;
+        color: #fff;
+        padding: 10px 30px;
+        font-size: 16px;
+        font-weight: 400;
+    }
+
+    .banner-area {
+        margin-top: 50px;
+    }
+
+    .full-width {
+        flex-direction: column;
+
+    }
+
+    .half-width {
+        margin: 20px;
+    }
+
+    .banner-title h1 {
+        font-size: 38px;
+        font-weight: 800;
+        color: #263238;
+    }
+
+    .banner-content p {
+        font-size: 14px;
+        margin-top: 20px;
+        margin-bottom: 20px;
+    }
+
+    /* About area */
+    .about-area {
+        margin-top: 70px;
+    }
+
+    .about-area .common-title {
+        margin-bottom: 20px;
+    }
+
+    .about-title h3 {
+        font-size: 20px;
+        margin-bottom: 20px;
+    }
+
+    .about-content p {
+        font-size: 14px;
+        margin: 5px;
+
+    }
+
+    .about-area .common-button {
+        margin-top: 20px;
+    }
+
+    /* Client Area */
+    .client-area {
+        margin-top: 50px;
+        margin-bottom: 50px;
+    }
+
+    .client-area .common-title {
+        margin-bottom: 30px;
+    }
+
+    .common-half h5 {
+        font-size: 16px;
+    }
+
+    .common-half p {
+        font-size: 14px;
+    }
+
+    .client-content {
+        font-size: 14px;
+
+    }
+
+    .com-mar {
+        margin-left: 20px;
+    }
+
+    .quote i {
+        font-size: 20px;
+        margin-left: 40px;
+        opacity: .2;
+    }
+
+    .owl-theme .owl-dots .owl-dot span {
+        width: 10px;
+        height: 10px;
+    }
+
+    /* contact area */
+    .contact-area {
+        margin-bottom: 50px;
+    }
+
+    .contact-form {
+        text-align: center;
+        margin-top: 30px;
+    }
+
+    .contact-form input {
+        font-size: 14px;
+        margin-top: 10px;
+        padding-left: 20px;
+    }
+
+    textarea {
+        padding-left: 20px;
+        padding-top: 20px;
+    }
+
+    .contact-area .common-button {
+        margin-top: 20px;
+    }
+
+    /* Blog area */
+    .blog-area {
+        margin-bottom: 50px;
+
+    }
+
+    .blog-img {
+        text-align: center;
+    }
+
+    .blog-img img {
+        width: 200px;
+        height: 150px;
+    }
+
+    .blog-title h6 {
+        font-size: 16px;
+        margin-top: 20px;
+        margin-bottom: 10px;
+    }
+
+    .blog-content {
+        font-size: 14px;
+        font-weight: 400;
+        color: #373737;
+    }
+
+    /* Footer area */
+    .footer-area {
+        padding: 30px 0;
+
+    }
+
+    .footer-content p {
+        font-size: 12px;
+    }
+}
+
+@media only screen and (min-width : 769px) and (max-width: 991px) {
+    .common-title h1 {
+        font-size: 40px;
+    }
+
+    .banner-title h1 {
+        font-size: 40px;
+        font-weight: 800;
+        color: #263238;
+    }
+
+    .banner-content p {
+        font-size: 14px;
+        margin-top: 20px;
+        margin-bottom: 20px;
+    }
+
+    /* About area */
+    .about-title h3 {
+        font-size: 20px;
+        margin-bottom: 20px;
+    }
+
+    .about-content p {
+        font-size: 14px;
+        margin: 5px;
+
+    }
+
+    .about-area .common-button {
+        margin-top: 20px;
+    }
+
+    /* Client area */
+    .common-half h5 {
+        font-size: 16px;
+    }
+
+    .common-half p {
+        font-size: 14px;
+    }
+
+    .client-content {
+        font-size: 16px;
+
+    }
+
+    .common-half p {
+        font-size: 12px;
+    }
+
+    .client-area .half-width {
+        margin-left: 10px;
+        margin-right: 10px;
+    }
+
+    .com-mar {
+        margin-left: 20px;
+    }
+
+    /* Contact area */
+    .contact-area .common-button {
+        margin-top: 20px;
+    }
+
+    /* Blog area */
+    .blog-area .half-width {
+        width: 40%;
+    }
+
+
+    .blog-img {
+        text-align: center;
+    }
+
+    .blog-img img {
+        width: 200px;
+        height: 150px;
+    }
+
+    .blog-title h6 {
+        font-size: 16px;
+        margin-top: 20px;
+        margin-bottom: 10px;
+    }
+
+    .blog-content {
+        font-size: 14px;
+        font-weight: 400;
+        color: #373737;
+    }
+
+}
